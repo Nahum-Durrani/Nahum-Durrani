@@ -1,22 +1,17 @@
-# 👋 Hi there, I'm Nahum Durrani
+<h1 align="center">Hi 👋 I'm Nahum Durrani</h1>
 
-### Software Engineering Student | AI & Machine Learning Enthusiast
+# 💫 About Me:
+I'm a Software Engineering student at York University, passionate about developing innovative solutions using machine learning, AI, and software development. I thrive on tackling challenging projects and contributing to the tech community with creative problem-solving.
 
-I'm a **Software Engineering** student at **York University**, passionate about developing innovative solutions using **machine learning**, **AI**, and **software development**. I thrive on tackling challenging projects and contributing to the tech community with creative problem-solving.
+## 🚀 What I'm Up To
 
----
+- 🤖 Exploring **Machine Learning** with **scikit-learn**.
+- 💻 Building **AI-powered applications** and working with **natural language processing (NLP)**.
+- 🌐 Exploring **cloud computing** and **web development**.
 
-## 📝 What I'm Working On:
-- Building **AI-powered tools** to automate daily tasks.
-- Working on projects in **machine learning** and **natural language processing (NLP)**.
-- Exploring **cloud computing** and **web development**.
-
----
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahum-durrani/)
-
----
 
 # 💻 Tech Stack:
 Languages: 
@@ -43,5 +38,3 @@ Libraries/Frameworks:
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
