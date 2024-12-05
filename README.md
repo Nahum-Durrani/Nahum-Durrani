@@ -7,7 +7,7 @@ I'm a Software Engineering student at York University, passionate about developi
 
 - 🤖 Exploring **Machine Learning** with **scikit-learn**.
 - 💻 Building **AI-powered applications** and working with **natural language processing (NLP)**.
-- 🌐 Exploring **cloud computing** and **web development**.
+- 🌐 Exploring **cloud computing** and **web development**
 
 
 ## 🌐 Connect with me:
