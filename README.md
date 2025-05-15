@@ -8,7 +8,8 @@ I'm a Software Engineering student at York University, passionate about developi
 - 🤖 Exploring **Machine Learning** with **scikit-learn**.
 - 💻 Building **AI-powered applications** and working with **natural language processing (NLP)**.
 - 🌐 Exploring **cloud computing** and **web development**
-
+- 
+Check out my [coding portfolio!](https://nahumd-portfolio.vercel.app/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahum-durrani/)
