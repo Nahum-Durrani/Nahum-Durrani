@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Nahum Durrai</h1>
+<h1 align="center">Hi 👋 I'm Nahum Durrani</h1>
 
 # 💫 About Me :
 I'm a Software Engineering student at York University, passionate about developing innovative solutions using machine learning, AI, and software development. I thrive on tackling challenging projects and contributing to the tech community with creative problem-solving.
