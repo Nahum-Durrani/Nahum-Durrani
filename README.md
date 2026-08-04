@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Nahum Durrani</h1>
 
-# 💫 About Me:
+# 💫 About Me
 I'm a Software Engineering student at York University, passionate about developing innovative solutions using machine learning, AI, and software development. I thrive on tackling challenging projects and contributing to the tech community with creative problem-solving.
 
 ## 🚀 What I'm Up To
@@ -9,7 +9,7 @@ I'm a Software Engineering student at York University, passionate about developi
 - 💻 Building **AI-powered applications** and working with **natural language processing (NLP)**.
 - 🌐 Exploring **cloud computing** and **web development**
 - 
-Check out my [coding portfolio!](https://nahumd-portfolio.vercel.app/)
+Check out my [coding portfolio!]([https://nahumd-portfolio.vercel.app/](https://nahumdurrani.dev/))
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahum-durrani/)
